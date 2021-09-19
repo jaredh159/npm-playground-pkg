@@ -1,6 +1,6 @@
 {
-  "name": "@jaredh/playground-pkg",
-  "version": "2.0.0-alpha.1",
+  "name": "@jaredh150/playground-pkg",
+  "version": "1.0.0",
   "description": "just a test package for testing automated publishing",
   "main": "index.js",
   "keywords": [],
