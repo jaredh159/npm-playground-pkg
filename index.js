@@ -1,1 +1,1 @@
-console.log(`Hello friends!`);
+console.log(`Hello laptop!`);
